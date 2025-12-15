@@ -3,7 +3,9 @@
 🎓 Data Science student at Universitas Airlangga  
 🤖 Statistics & Data Analysis • Machine Learning
 
-My projects and competition experiences involve applying statistical analysis and machine learning to real datasets, covering **spatial analysis, time series analysis, image processing**, and the development of **interactive dashboards**. I am currently deepening my understanding of **natural language processing**, exploring modern deep learning based methods.
+My projects and competition work involve applying statistical analysis and machine learning to real datasets, including **spatial analysis, time series analysis, image processing, and interactive dashboard development**.  
+
+I am currently deepening my understanding of **natural language processing**, exploring modern deep learning based approaches.
 
 ---
 
