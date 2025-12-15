@@ -1,7 +1,8 @@
 # Hey, I’m Cuthbert 👋🚀
 
 🎓 Data Science student at Universitas Airlangga  
-🤖 Statistics & Data Analysis • Machine Learning
+
+#### Core Competencies: 
 
 My projects and competition work involve applying statistical analysis and machine learning to real datasets, including **spatial analysis, time series analysis, image processing, and interactive dashboard development**.  
 
