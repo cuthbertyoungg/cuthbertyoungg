@@ -1,4 +1,4 @@
-# Hey, I’m Cuthbert 👋🚀
+# Hey, I’m Cuthbert 👋
 
 🎓 Data Science student at Universitas Airlangga  
 
